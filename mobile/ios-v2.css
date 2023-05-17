@@ -1,0 +1,11 @@
+.a-button-primary {
+  height: 4em
+}
+
+.a-link-normal{
+  pointer-events: none;
+}
+
+ul li a {
+  height: 4em;
+}
