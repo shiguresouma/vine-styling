@@ -1,5 +1,5 @@
 .a-button-primary {
-  height: 4em
+  height: 4em;
 }
 
 .a-link-normal{
@@ -8,4 +8,8 @@
 
 ul li a {
   height: 4em;
+}
+
+#rhf-shoveler, #navFooter, #rhf-container {
+  display: none;
 }
